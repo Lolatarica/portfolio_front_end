@@ -1,0 +1,31 @@
+.mas-uno:target{
+    display: block;
+}
+
+.mas-uno {
+    display: none;
+}
+
+.mas-dos:target{
+    display: block;
+}
+
+.mas-dos {
+    display: none;
+}
+
+.mas-tres:target{
+    display: block;
+}
+
+.mas-tres {
+    display: none;
+}
+
+.mas-cuatro:target{
+    display: block;
+}
+
+.mas-cuatro {
+    display: none;
+}
